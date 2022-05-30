@@ -1,7 +1,7 @@
-### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadliwissem&theme=codeSTACKr_icons=true)
+
+
 ### Hi there 👋, my name is Wissem
 #### I am a Tunisian development student 
 ![I am a Tunisian development student ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv7t8wAuawTBp5fVQwvqJwLYJ7uSZ16inNGg&usqp=CAU )
@@ -12,6 +12,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ANGULAR /JAVA EE / JAVA  /BOOTSTRAP/PHP
 
 - 🔭 I’m currently working on an idea of a big app 
 - 🌱 I’m currently learning computer technology 
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadliwissem&theme=codeSTACKr_icons=true)
 
 
 
