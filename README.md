@@ -12,7 +12,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ANGULAR /JAVA EE / JAVA  /BOOTSTRAP/PHP
 
 - 🔭 I’m currently working on an idea of a big app 
 - 🌱 I’m currently learning computer technology 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadliwissem&theme=codeSTACKr_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadliwissem&theme=codeSTACKr_icons=true)
 
 
 
